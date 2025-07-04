@@ -37,6 +37,8 @@ All Malkavians suffer from a permanent incurable [Derangement](../Flaws/Derangem
     * [Labyrinthine Mind (3)](<../Merits/Labyrinthine Mind>)
     * [Method to the Madness (3)](<../Merits/Method to the Madness>)
     * [Sophistry (4)](<../Merits/Sophistry>)
+    * [Bloodline: Ananke (2)](<./Ananke>)
+    * [Bloodline: Knights of the Moon (2)](<./Knights of the Moon>)
 
 # Clan Flaws
 
