@@ -17,6 +17,8 @@ hide_table_of_contents: true
 
 Where standard Malkavians may have visions of the future in the literal sense, or be visited in their dreams, the Ananke bloodline relies on inspection of the dead, Haruspexy, in order to predict the future. Where standard Malkavians may prefer to stay out of the light, Ananke are fine with taking center stage to perform the rituals to bring them the truth they are seeking. Given the connection to death, Ananke are able to get access to Necromantic powers from their studies as well.
 
+Ananke are a bloodline that require 2 merit points to play.
+
 # In Clan Disciplines
 
 [Auspex](../Disciplines/Auspex) — [Dementation](<../Disciplines/Dementation>) — [Presence](<../Disciplines/Presence>)
