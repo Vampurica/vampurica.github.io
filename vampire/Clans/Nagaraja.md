@@ -19,7 +19,7 @@ Similar to the [Tremere](<./Tremere>), the Nagaraja were once mages from India w
 
 To remedy this, they took blood from the [Followers of Set](<./Followers of Set>) and performed a ritual where many of them gave their lives and found themselves turned into vampires, though with a unique weakness. When the mages started to explore their newfound hunger, they found themselves with knife like teeth and a hungering for human flesh.
 
-These new vampires immediately found themselves at odds with the Followers of Set that controlled most of Egypt, and although their creation revealed more secrets of Necromancy to them, they were too small in number to be able to challenge the numerous amounts of Setites in the area. Because of this, most split and fled to isolate themselves from the greater vampire society, though some remained loyal to the undead mages they were created from.
+These new vampires immediately found themselves at odds with the [Followers of Set](<./Followers of Set>) that controlled most of Egypt, and although their creation revealed more secrets of Necromancy to them, they were too small in number to be able to challenge the numerous amounts of Setites in the area. Because of this, most split and fled to isolate themselves from the greater vampire society, though some remained loyal to the undead mages they were created from.
 
 In the modern nights they have began to make themselves more known, but they are still isolationists at the core, whose clan weakness requires them to find unique solutions to the piles of bodies they leave behind in their wake.
 
