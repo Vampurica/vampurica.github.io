@@ -1,4 +1,5 @@
 ---
+title: 'Additional Uncommon Discipline'
 sidebar_label: 'Additional Uncommon Discipline'
 hide_table_of_contents: true
 ---

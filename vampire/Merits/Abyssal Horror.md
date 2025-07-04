@@ -1,4 +1,5 @@
 ---
+title: 'Abyssal Horror'
 sidebar_label: 'Abyssal Horror'
 hide_table_of_contents: true
 ---

@@ -1,4 +1,5 @@
 ---
+title: 'Angelic Visage'
 sidebar_label: 'Angelic Visage'
 hide_table_of_contents: true
 ---

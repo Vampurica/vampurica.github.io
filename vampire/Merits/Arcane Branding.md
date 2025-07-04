@@ -1,4 +1,5 @@
 ---
+title: 'Arcane Branding'
 sidebar_label: 'Arcane Branding'
 hide_table_of_contents: true
 ---

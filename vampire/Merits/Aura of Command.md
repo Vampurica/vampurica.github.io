@@ -1,4 +1,5 @@
 ---
+title: 'Aura of Command'
 sidebar_label: 'Aura of Command'
 hide_table_of_contents: true
 ---

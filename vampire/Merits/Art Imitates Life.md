@@ -1,4 +1,5 @@
 ---
+title: 'Art Imitates Life'
 sidebar_label: 'Art Imitates Life'
 hide_table_of_contents: true
 ---

@@ -1,4 +1,5 @@
 ---
+title: 'Adaptive'
 sidebar_label: 'Adaptive'
 hide_table_of_contents: true
 ---

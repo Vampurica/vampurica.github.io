@@ -1,4 +1,5 @@
 ---
+title: 'Arcane'
 sidebar_label: 'Arcane'
 hide_table_of_contents: true
 ---

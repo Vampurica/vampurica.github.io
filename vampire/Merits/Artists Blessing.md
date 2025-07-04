@@ -1,4 +1,5 @@
 ---
+title: "Artist's Blessing"
 sidebar_label: "Artist's Blessing"
 hide_table_of_contents: true
 ---

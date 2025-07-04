@@ -1,4 +1,5 @@
 ---
+title: 'Abstract Awareness'
 sidebar_label: 'Abstract Awareness'
 hide_table_of_contents: true
 ---

@@ -1,4 +1,5 @@
 ---
+title: 'Architect of the Tower'
 sidebar_label: 'Architect of the Tower'
 hide_table_of_contents: true
 ---

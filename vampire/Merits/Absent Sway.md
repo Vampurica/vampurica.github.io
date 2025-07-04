@@ -1,4 +1,5 @@
 ---
+title: 'Absent Sway'
 sidebar_label: 'Absent Sway'
 hide_table_of_contents: true
 ---

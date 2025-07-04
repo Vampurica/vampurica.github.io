@@ -1,4 +1,5 @@
 ---
+title: 'All The Best Toys'
 sidebar_label: 'All The Best Toys'
 hide_table_of_contents: true
 ---

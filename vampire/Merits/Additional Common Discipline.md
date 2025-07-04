@@ -1,4 +1,5 @@
 ---
+title: 'Additional Common Discipline'
 sidebar_label: 'Additional Common Discipline'
 hide_table_of_contents: true
 ---

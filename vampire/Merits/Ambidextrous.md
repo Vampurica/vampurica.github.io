@@ -1,4 +1,5 @@
 ---
+title: 'Ambidextrous'
 sidebar_label: 'Ambidextrous'
 hide_table_of_contents: true
 ---

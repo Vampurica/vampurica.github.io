@@ -1,4 +1,5 @@
 ---
+title: 'Acute Sense'
 sidebar_label: 'Acute Sense'
 hide_table_of_contents: true
 ---

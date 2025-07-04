@@ -1,4 +1,5 @@
 ---
+title: 'Addictive Blood'
 sidebar_label: 'Addictive Blood'
 hide_table_of_contents: true
 ---

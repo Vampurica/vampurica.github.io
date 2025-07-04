@@ -1,4 +1,5 @@
 ---
+title: 'Aquatic Predator'
 sidebar_label: 'Aquatic Predator'
 hide_table_of_contents: true
 ---
